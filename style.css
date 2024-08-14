@@ -1,0 +1,13 @@
+* {
+    background-color: lightblue;
+}
+.title {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+.list-element {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
